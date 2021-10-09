@@ -41,5 +41,12 @@
     "Error": "Yah Error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
+  },
+  "session": {
+	"clientID": "tTz7XjW+nW23I7UTobh1Pw==",
+	"serverToken": "1@dAl94V2r6N+rRDP7/d7JQlitWFjfeTXJwRMQjA8mNSF3i2LcQ7/YgbJDa/S4LBlgMzFjPvsONsnzNw==",
+	"clientToken": "BfCZCnsXQRGFwg14VA+q0YxluDVJHxeKg3975rMjspI=",
+	"encKey": "C6AemUt8lUCtCHxT7qb7dlM+KOhsx1iyNdDw6lNV3kY=",
+	"macKey": "Q6xaqq/2hfAnX19VxTmBdXLMefpqetSiEtkfwRTdG0U="
   }
 }
